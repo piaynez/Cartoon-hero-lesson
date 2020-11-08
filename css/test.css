@@ -1,0 +1,25 @@
+h1{
+    font-size: 30px; 
+    color: steelblue;
+}
+
+h2{
+    color:tomato;
+    font-size: 20;
+}
+
+.big{
+    color: purple;
+}
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+.big.uppercase{
+    color: grey;
+}
+
+h1 span{
+    color: red;
+}
